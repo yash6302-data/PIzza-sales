@@ -1,7 +1,7 @@
 # **🍕 Pizza Sales Data Analysis with SQL**
 
 
-*Overview*
+## *Overview*
 
 This project dives into the sales data of a pizza business, uncovering insights and trends to help make informed decisions. By leveraging SQL, I addressed key business-related questions, from identifying top-selling pizzas to analyzing peak sales times, ultimately assisting the business in boosting revenue and optimizing operations.
 
