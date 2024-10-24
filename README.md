@@ -1,4 +1,4 @@
-#**🍕 Pizza Sales Data Analysis with SQL**
+# **🍕 Pizza Sales Data Analysis with SQL**
 
 
 *Overview*
